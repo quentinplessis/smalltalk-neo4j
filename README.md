@@ -1,4 +1,4 @@
-# Smalltalk勉強会
+# Samples
 
 ## 環境を立ち上げる
 ```
@@ -9,3 +9,13 @@ ruby setup.rb start
 ```
 ruby setup.rb stop
 ```
+
+## Installation
+```smalltalk
+Metacello new
+    baseline: 'Neo4jSample';
+    repository: 'github://github.com/quentinplessis/smalltalk-neo4j:v0.1/pharo-repository';
+    load.
+```
+
+
