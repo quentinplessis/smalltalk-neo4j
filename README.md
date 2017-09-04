@@ -67,7 +67,7 @@ scenarioA q31_movies: '{language: "en", genre: "Action"}'.
 properties := { 
 	'language' -> 'en'.
  } asDictionary.
-scenarioA q31_movies: properties asJsonString.
+scenarioA q31_movies: properties asJsonString. "Json format not recognized by Neo4j"
 
 scenarioA scypherSamples.
 scenarioA q32_moviesWhere: properties.
