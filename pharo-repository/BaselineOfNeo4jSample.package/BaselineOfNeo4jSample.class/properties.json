@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfNeo4jSample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfNeo4jSample",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

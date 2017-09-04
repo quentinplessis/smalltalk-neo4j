@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"q11_movies" : "QuentinPlessis 8/29/2017 14:19",
+		"q12_moviesDirector:actor:" : "QuentinPlessis 8/29/2017 14:19",
+		"q13_moviesDirector:actorBornIn:" : "QuentinPlessis 8/29/2017 14:19",
+		"q14_moviesDirector:actorBornIn:" : "QuentinPlessis 8/29/2017 14:19",
+		"q21_moviesWithArgumentList:" : "QuentinPlessis 8/29/2017 14:19",
+		"q22_moviesWithArgumentList:" : "QuentinPlessis 8/29/2017 14:19",
+		"q31_movies:" : "QuentinPlessis 8/29/2017 14:20",
+		"q32_moviesWhere:" : "QuentinPlessis 8/29/2017 14:21",
+		"q33_movies:" : "QuentinPlessis 8/29/2017 14:22",
+		"q34_moviesNamed:" : "QuentinPlessis 8/29/2017 14:22",
+		"q35_moviesNamed:" : "QuentinPlessis 8/29/2017 14:25",
+		"scypherSamples" : "QuentinPlessis 8/29/2017 14:28" } }

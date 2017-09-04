@@ -1,0 +1,14 @@
+{
+	"category" : "Neo4j-Sample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graphDb" ],
+	"name" : "Neo4jScenario",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

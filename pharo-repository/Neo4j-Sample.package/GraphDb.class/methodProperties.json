@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"inspectQueries" : "",
+		"inspectQueries:" : "",
+		"latency" : "",
+		"latency:" : "",
+		"parseMultiResponse:" : "",
+		"parseResponse:" : "QuentinPlessis 8/29/2017 14:09",
+		"queryByCypher:" : "QuentinPlessis 8/29/2017 14:11",
+		"queryByCypher:arguments:" : "QuentinPlessis 8/29/2017 14:12",
+		"queryByCyphers:" : "QuentinPlessis 8/29/2017 14:12",
+		"queryByCyphersWithArguments:" : "QuentinPlessis 8/29/2017 14:12" } }

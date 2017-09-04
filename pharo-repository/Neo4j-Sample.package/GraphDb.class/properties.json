@@ -1,0 +1,15 @@
+{
+	"category" : "Neo4j-Sample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inspectQueries",
+		"latency" ],
+	"name" : "GraphDb",
+	"pools" : [
+		 ],
+	"super" : "N4GraphDb",
+	"type" : "normal" }
