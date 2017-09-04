@@ -1,4 +1,4 @@
-# Neo4j from Pharo Smalltalk
+# Manipulating Neo4j from Pharo Smalltalk
 
 Sample code to manipulate Neo4j data from Pharo Smalltalk via Cypher queries, using Neo4reSt and SCypher libraries.
 
